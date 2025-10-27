@@ -28,14 +28,18 @@
         <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
       <br>Next.js
     </td>
-    <td align="center" width="88">
+  </tr>
+      <td align="center" width="88">
       <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
     </td>
-  </tr>
     <td align="center"  width="88">
         <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
+    </td>
+        <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+      <br>Sass
     </td>
     <td align="center" width="88">
         <img src="./images/14-sql.svg" alt="SQL" width="44" height="44"/>
