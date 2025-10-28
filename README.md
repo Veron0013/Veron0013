@@ -59,7 +59,13 @@
 
 ### GitHub Stats :
 
-<table align="center">
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Veron0013&show_icons=true&theme=radical" />
+</a>
+
+  </div>
+  <table align="center">
   <tr>
   <td colspan=2 align="center">
   <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Veron0013&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Igor Vdovyks GitHub Readme Streak Stats" /> </a>
@@ -69,6 +75,8 @@
   </td>
   </tr>
 </table>
+
+
 
 ### Views Stats :
 
